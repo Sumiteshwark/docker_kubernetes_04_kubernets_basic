@@ -1,0 +1,16 @@
+{
+  "name": "kubernets",
+  "version": "1.0.0",
+  "description": "************* INSTALLATION ************* (Lec-160) 1> Make sure docker should be installed in local. 2> Install cubectl -> This is Kubernetes command-line tool, that allows you to run commands against Kubernetes clusters. 3> Install minikube -> Minikube is a tool that provides an easy means of creating a local Kubernetes environment on any Linux, Mac, or Windows system, where you can experiment with and test Kubernetes deployments.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
