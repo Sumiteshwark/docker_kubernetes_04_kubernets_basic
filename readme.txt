@@ -65,3 +65,6 @@
 -> kubectl delete deployment first-app
 -> Recheck no services, pods and deployments are there by command "kubectl get <name>"
 -> minikube stop and then minikube delete
+
+
+==>> In this lecture, we have used Imperatively Approach to run DEPLOYMENT and in next lecture we are going to run deployments by Declaratively Approach.
